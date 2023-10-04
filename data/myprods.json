@@ -1,0 +1,126 @@
+[
+    {
+        "id": 4,
+        "status": true,
+        "title": "producto4",
+        "description": "este es el producto producto4",
+        "price": 200,
+        "thumbnail": [
+            "imagen",
+            "otra imagen"
+        ],
+        "code": "abc124",
+        "stock": 25,
+        "category": "categoria A"
+    },
+    {
+        "id": 5,
+        "status": true,
+        "title": "producto5",
+        "description": "este es el producto 5",
+        "price": 200,
+        "thumbnail": [
+            "imagen",
+            "otra imagen"
+        ],
+        "code": "abc125",
+        "stock": 25,
+        "category": "categoria C"
+    },
+    {
+        "id": 6,
+        "status": true,
+        "title": "producto6",
+        "description": "este es el producto 6",
+        "price": 200,
+        "thumbnail": [
+            "imagen",
+            "otra imagen"
+        ],
+        "code": "abc126",
+        "stock": 25,
+        "category": "categoria B"
+    },
+    {
+        "id": 7,
+        "status": true,
+        "title": "producto7",
+        "description": "este es el producto 7",
+        "price": 200,
+        "thumbnail": [
+            "imagen",
+            "otra imagen"
+        ],
+        "code": "abc127",
+        "stock": 25,
+        "category": "categoria B"
+    },
+    {
+        "id": 8,
+        "status": true,
+        "title": "producto8",
+        "description": "este es el producto 8",
+        "price": 200,
+        "thumbnail": [
+            "imagen",
+            "otra imagen"
+        ],
+        "code": "abc128",
+        "stock": 25,
+        "category": "categoria C"
+    },
+    {
+        "id": 9,
+        "status": true,
+        "title": "producto9",
+        "description": "este es el producto 9",
+        "price": 200,
+        "thumbnail": [
+            "imagen",
+            "otra imagen"
+        ],
+        "code": "abc129",
+        "stock": 25,
+        "category": "categoria A"
+    },
+    {
+        "id": 11,
+        "status": "ds",
+        "title": "sd",
+        "description": "ds",
+        "price": "2",
+        "code": "1",
+        "stock": "3",
+        "category": "fxg"
+    },
+    {
+        "id": 12,
+        "status": "true",
+        "title": "nuevoproductoquehice",
+        "description": "lindisimo",
+        "price": "1000",
+        "code": "abs987",
+        "stock": "10",
+        "category": "LaMejorCat"
+    },
+    {
+        "id": 13,
+        "status": "",
+        "title": "el trece",
+        "description": "a",
+        "price": "4",
+        "code": "4",
+        "stock": "4",
+        "category": "a"
+    },
+    {
+        "id": 14,
+        "title": "w",
+        "description": "w",
+        "status": true,
+        "price": "3",
+        "code": "3",
+        "stock": "3",
+        "category": "w"
+    }
+]
